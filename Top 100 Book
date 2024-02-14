@@ -1,3 +1,5 @@
+# 抓取博客來30日暢銷榜總榜前100名的書籍名稱
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
